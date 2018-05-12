@@ -1,0 +1,45 @@
+_repo: Stories-and-Ballads-of-the-Far-Past--13-Translated-from-the-Norse--Icelandic-and-Faroese--wit__33471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chadwick, Nora K. (Nora Kershaw)
+    aliases:
+    - Kershaw, Nora
+    - Chadwick, Nora Kershaw
+    - Kershaw, Norah
+    - Chadwick, N. K. (Nora Kershaw)
+    - Chadwick, N. Kershaw (Nora Kershaw)
+    birthdate: 1891
+    deathdate: 1972
+    gutenberg_agent_id: '36427'
+    url: http://www.gutenberg.org/2009/agents/36427
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Kershaw_Chadwick
+description: 'Sagas : Tháttr of Nornagest. Tháttr of Sörli. Saga of Hromund Greipsson.
+  Saga of Hervor and Heithrek. Appendix : The combat at Samsø and Hjalmar''s death
+  song.-- Ballads : Gríplur I. Ballad of Arngrim''s sons. Gátu rima. Hildina.'
+gutenberg_issued: '2010-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33471'
+  lccn: '21016024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Old Norse literature -- Translations into English'
+- !lcsh 'Folk songs, Scandinavian'
+- !lcsh 'Sagas'
+tableOfContents: 'Sagas: The Tháttr of Nornagest. The Tháttr of Sörli. The Saga of
+  Hromund Greipsson. The Saga of Hervör and Heithrek. Appendix to Part I (The Combat
+  at Samsø. and Hjalmar''s Death Song) -- Ballads: Gríplur I. The Faroese Ballad of
+  Nornagest. The Faroese Ballad of Hjalmar and Angantyr. The Danish Ballad of Angelfyr
+  and Helmer. The Faroese Ballad of Arngrim''s Sons. The Faroese Riddle Ballad (Gátu
+  Ríma). The Shetland Ballad of Hildina.'
+title: "Stories and Ballads of the Far Past\r\nTranslated from the Norse (Icelandic\
+  \ and Faroese) with Introductions and Notes"
+url: http://www.gutenberg.org/ebooks/33471
